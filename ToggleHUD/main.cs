@@ -6,7 +6,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
-[BepInPlugin("com.gabizar.togglehud", "Toggle HUD Mod", "0.1.0 ")]
+[BepInPlugin("com.gabizar.togglehud", "Toggle HUD Mod", "1.0.0 ")]
 public class ToggleHUD: BaseUnityPlugin
 {
 
